@@ -1,0 +1,7 @@
+Letter    Prefixes                      Words                                             
+==========================================================================================
+A         a                             a, and, are                                       
+B         b                             be, but, by                                       
+H         h, ha, he                     had, have, he, her, his                           
+T         t, th                         this, that, to                                    
+N                                       not                                               
